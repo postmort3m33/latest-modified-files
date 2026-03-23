@@ -4,7 +4,10 @@ A lightweight Windows GUI tool that recursively scans a folder and displays the 
 
 # Features:
 
-GUI-based — no command-line arguments needed.
-Recursive search — scans all subfolders automatically.
-Sorted by last modified time — newest files appear at the top.
-Horizontal + vertical scrolling for long paths.
+GUI-based — no command-line arguments needed
+
+Recursive search — scans all subfolders automatically
+
+Sorted by last modified time — newest files appear at the top
+
+Horizontal + vertical scrolling for long paths
